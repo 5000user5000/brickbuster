@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Media;
 
-namespace B09502132周哲瑋Ass005BrickBuster
+namespace BrickBuster
 {
      
     
